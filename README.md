@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **UI/UX design and optimizing backend performance for web apps**.  
 - 💬 Ask me about **event management, web development, and my projects like LearningRecite**.  
 - 📫 How to reach me: **[unnatikesarwani27@gmail.com](mailto:unnatikesarwani27@gmail.com) 
--                       [LinkedIn Profile](https://www.linkedin.com/in/unnati-kesarwani-00a131308)**  
+- [LinkedIn Profile](https://www.linkedin.com/in/unnati-kesarwani-00a131308)**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I was an NCC cadet, love dancing, and can play badminton for hours!**
 
